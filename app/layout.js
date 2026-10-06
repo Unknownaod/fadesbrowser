@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Fades Browser"
-  description: "Your perfect browser.",
+  description: "Your perfect browser",
 };
 
 export default function RootLayout({ children }) {
