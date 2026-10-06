@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Fades Browser"
+  title: "Fades Browser",
   description: "Your perfect browser",
 };
 
