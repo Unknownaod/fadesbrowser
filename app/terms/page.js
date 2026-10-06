@@ -93,7 +93,7 @@ export default function TermsPage() {
       <div className="terms-glow terms-glow-two" />
 
       <header className="terms-header">
-        <a href="https://fades.lol" className="brand">
+        <a href="https://fadeshq.app" className="brand">
           <img src="/logo.png" alt="Fades" />
           <span>Fades</span>
         </a>
@@ -107,7 +107,7 @@ export default function TermsPage() {
             <Icon name={theme === "dark" ? "sun" : "moon"} size={18} />
           </button>
 
-          <a href="https://fades.lol" className="back-button">
+          <a href="https://fadeshq.app" className="back-button">
             <Icon name="back" size={17} />
             Back to Fades
           </a>
@@ -332,7 +332,7 @@ export default function TermsPage() {
               official Fades website.
             </p>
 
-            <a href="https://fades.lol" className="contact-link">
+            <a href="https://fadeshq.app" className="contact-link">
               Visit Fades
               <Icon name="arrow" size={17} />
             </a>
@@ -365,7 +365,7 @@ export default function TermsPage() {
         <div className="footer-links">
           <a href="/terms">Terms</a>
           <a href="/privacy">Privacy</a>
-          <a href="https://fades.lol">Fades</a>
+          <a href="https://fadeshq.app">Fades</a>
         </div>
       </footer>
     </main>
