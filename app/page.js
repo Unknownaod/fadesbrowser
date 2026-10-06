@@ -615,7 +615,7 @@ export default function Page() {
                       <Icon name="sparkles" size={14} />
                     </span>
 
-                    <strong>Fades</strong>
+                    <strong>Fades AI</strong>
                     <small>fades.lol</small>
                   </div>
 
