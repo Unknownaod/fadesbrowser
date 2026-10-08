@@ -10,8 +10,8 @@ const DOWNLOADS = {
   windows: {
     label: "Windows",
     subtitle: "Windows 10 / 11 · 64-bit",
-    href: "https://downloads.fades.lol/FadesBrowser.exe",
-    filename: "Fades-Browser-Setup-0.3.0.exe",
+    href: "https://downloads.fades.lol/Fades Browser_0.1.0_x64-setup.exe",
+    filename: "Fades Browser_0.1.0_x64-setup.exe",
     type: "EXE",
   },
   macos: {
