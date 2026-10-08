@@ -3,29 +3,29 @@
 import { useEffect, useMemo, useState } from "react";
 import "./globals.css";
 
-const VERSION = "0.3.0";
+const VERSION = "0.1.4";
 const RELEASE_DATE = "October 6, 2026";
 
 const DOWNLOADS = {
   windows: {
     label: "Windows",
     subtitle: "Windows 10 / 11 · 64-bit",
-    href: "https://downloads.fades.lol/Fades Browser_0.1.0_x64-setup.exe",
-    filename: "Fades Browser_0.1.0_x64-setup.exe",
+    href: "https://downloads.fades.lol/Fades Browser_0.1.4_x64-setup.exe",
+    filename: "Fades Browser_0.1.4_x64-setup.exe",
     type: "EXE",
   },
   macos: {
     label: "macOS",
     subtitle: "Apple Silicon · Intel",
     href: "#",
-    filename: "Fades-Browser-0.3.0.dmg",
+    filename: "Fades-Browser-0.1.4.dmg",
     type: "DMG",
   },
   linux: {
     label: "Linux",
     subtitle: "AppImage · 64-bit",
     href: "#",
-    filename: "Fades-Browser-0.3.0.AppImage",
+    filename: "Fades-Browser-0.1.4.AppImage",
     type: "APPIMAGE",
   },
 };
